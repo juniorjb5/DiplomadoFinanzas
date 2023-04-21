@@ -1,5 +1,5 @@
 
-<img src="http://industrial.univalle.edu.co/images/la_escuela/presentacion/ESCUELA_20181001.jpg" width="1000" height="300" />
+<img src="ESCUELA_20181001.jpg" width="1000" height="300" />
   
 # Diplomado en Gestión de Inversiones y Herramientas de Análisis de Riesgo
 
