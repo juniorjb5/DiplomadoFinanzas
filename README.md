@@ -29,13 +29,13 @@ De tal manera, este curso proporciona un conocimiento integral para el continuo 
 
 6️⃣ [Link](https://pkgs.rstudio.com/flexdashboard/index.html) Clase: **Flexdashboard**
 
-7️⃣ [Link](https://www.joaquibarandica.com/media/DiplomadoFinanzas/Clase_7.pdf) Clase: **Intro a Series, Metodo ingenuo**
+7️⃣ [Link](https://www.joaquibarandica.com/media/DiplomadoFinanzas/Clase_7_Series.pdf) Clase: **Intro a Series, Metodo ingenuo**
 
-8️⃣ [Link](https://www.joaquibarandica.com/media/DiplomadoFinanzas/Clase_8.pdf) Clase: **Diagnóstico residual**
+8️⃣ [Link](https://www.joaquibarandica.com/media/DiplomadoFinanzas/Clase_8_Series.pdf) Clase: **Diagnóstico residual**
 
-9️⃣ [Link](https://www.joaquibarandica.com/media/DiplomadoFinanzas/Clase_9.pdf) Clase: **Regresión no lineal**
+9️⃣ [Link](https://www.joaquibarandica.com/media/DiplomadoFinanzas/Clase_9_Series.pdf) Clase: **Regresión no lineal**
 
-1️⃣0️⃣ [Link](https://www.joaquibarandica.com/media/DiplomadoFinanzas/Clase_10.pdf) Clase: **ARIMA**
+1️⃣0️⃣ [Link](https://www.joaquibarandica.com/media/DiplomadoFinanzas/Clase_10_Series.pdf) Clase: **ARIMA**
 
 1️⃣1️⃣ [Link](https://juniorjb5.github.io/VaR/VaR.html#1) Clase: **VaR**
 
