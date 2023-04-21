@@ -1,20 +1,17 @@
 
-<center>
-
- 
-  
-  <img src="[https://www.joaquibarandica.com/author/orlando-joaqui-barandica/avatar_hubff469d42154c21c97fb9216ba090a36_209917_270x270_fill_lanczos_center_2.png](http://industrial.univalle.edu.co/images/la_escuela/presentacion/ESCUELA_20181001.jpg)" width="500" height="100" />
+<img src="http://industrial.univalle.edu.co/images/la_escuela/presentacion/ESCUELA_20181001.jpg" width="1000" height="300" />
   
 # Diplomado en Gestión de Inversiones y Herramientas de Análisis de Riesgo
 
 ## Módulo: Análisis y visualización de datos financieros en R
 
- </center> 
-  
+ 
 <img src="https://www.joaquibarandica.com/author/orlando-joaqui-barandica/avatar_hubff469d42154c21c97fb9216ba090a36_209917_270x270_fill_lanczos_center_2.png" width="100" height="100" />
 
 ### Profesor: Orlando Joaqui Barandica. 
 [www.joaquibarandica.com](https://www.joaquibarandica.com)
+
+orlando.joaqui@correounivalle.edu.co
 
 El mundo de las finanzas, al igual que la tecnología, está presente en el día a día. Debido a ello, es importante conocer los distintos métodos o procedimientos que tienen las finanzas cuantitativas bajo distintas herramientas computacionales. Los lenguajes de programación como R se han abierto paso en los últimos años; es importante decir que tienen relevancia en ámbitos como el big data, la logística, la inteligencia artificial o el data mining. Sin embargo, también es de gran interés para nuestro campo, las finanzas cuantitativas.
 
