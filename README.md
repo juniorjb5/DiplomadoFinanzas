@@ -39,5 +39,6 @@ De tal manera, este curso proporciona un conocimiento integral para el continuo 
 
 1️⃣1️⃣ [Link](https://juniorjb5.github.io/VaR/VaR.html#1) Clase: **VaR**
 
+[Datos](https://correounivalleeduco-my.sharepoint.com/:f:/g/personal/orlando_joaqui_correounivalle_edu_co/Ek0QQPdhOrhAgh9c9fftp90Blmz7OgFo16CI0nAs2E884g?e=FB2NOd)
 
 
